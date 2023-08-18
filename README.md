@@ -8,3 +8,9 @@ Mainframe sites tend to use a hierarchical model when the data structure (not da
 
 ## Study plan 📑
 
+|No|Topics|Resource|Status|
+|--|-------------|--------|------|
+|1|The Complete Oracle SQL Bootcamp (2023)|[The Complete Oracle SQL Bootcamp (2023)](https://www.udemy.com/share/101XT23@4wGNgBsPtNJYZENzXirKz-aO7oTTex5fiu4ixCyuDmshpERs2Uie8SBeyBE8nqk6Tw==/) </br> ```udemy.com``` |📖|
+
+
+
